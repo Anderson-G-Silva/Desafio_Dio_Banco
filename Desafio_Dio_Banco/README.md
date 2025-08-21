@@ -58,7 +58,7 @@ No projeto foram implementadas validações de valores, validação de dados de 
 
 ## Referências
 
-- [DIO - Trilha Java básico](README.md)
+- [DIO - Trilha Java básico](https://github.com/falvojr/lab-banco-digital-oo/blob/master/README.md)
 
 
 
