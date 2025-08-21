@@ -2,7 +2,7 @@ package br.com.dio.accounts;
 
 import br.com.dio.customers.Customer;
 
-import static br.com.dio.customers.Customer.scanner;
+
 import static br.com.dio.generalAndExceptions.Bank.bank;
 
 
@@ -26,13 +26,6 @@ public abstract class Account implements IAccount{
 
     }
 
-    public void setSerial(int serial) {
-        this.serial = serial;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
 
     public void setBalance(double balance) {
         this.balance = balance;
