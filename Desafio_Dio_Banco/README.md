@@ -49,16 +49,16 @@ No projeto foram implementadas validações de valores, validação de dados de 
 | `balance`          | `double`    | 1500.00    | `Aplicação`          |
 
 ## Fluxograma
-```
+
 ![Diagrama.png](Diagrama.png)
-```
+
 
 ## Linguagens utilizadas
 - Java Versão 21.0.7
 
 ## Referências
 
-- [DIO - Trilha Java básico](https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/poo/README.md)
+- [DIO - Trilha Java básico](https://github.com/falvojr/lab-banco-digital-oo/blob/master/README.md)
 
 
 
